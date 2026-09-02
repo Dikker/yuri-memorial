@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "date": "October 09, 2023",
+    "year": "2023",
+    "title": "The Day We Met",
+    "category": "Milestones",
+    "location": "Our Family Home",
+    "description": "The day you arrived in our lives. You were only given to us at the age of 5 years old, yet I fell in love the moment i laid eyes on you. You greeted us with a menacing look, isolating yourself in the room we prepared for you. Would't even come out unless you wanted to eat. That day, I wanted to make you feel comfortable in your new home, to show that I love you. And for every day that has passed, you slowly become affectionate, running around the house, and showing that you're comfortable in your new home. But still having that sassy and grumpy attitude that I will always love.",
+    "mediaType": "image",
+    "media": "/images/cat-01_2.jpg"
+  },
+  {
+    "id": 2,
+    "date": "December 25, 2023",
+    "year": "2023",
+    "title": "Christmas Day",
+    "category": "Favorite Spots",
+    "location": "Living Room",
+    "description": "Celebrating our first Christmas with you. Taking pictures with you was difficult especially when your side-by-side with miming. But nevertheless, we were still so happy celebrate Christmas with you and your little sister.",
+    "mediaType": "image",
+    "media": "/images/cat-02.jpg"
+  },
+  {
+    "id": 3,
+    "date": "September 30, 2024",
+    "year": "2024",
+    "title": "Your 'Takasin' Era",
+    "category": "Traits",
+    "location": "Outside",
+    "description": "And here's the time I was afraid to come, the time where you start escaping to explore the outside world. I would always remember looking for you in every corner of the house and to only find you either in the neighbor's house or in the abandoned house next door. I would remember chasing you tirelessly, and scolding you after being caught. But with just a blink of an eye, I won't be able to do that with you anymore.",
+    "mediaType": "image",
+    "media": "/images/cat-03.jpg"
+  },
+  {
+    "id": 4,
+    "date": "October 17, 2024",
+    "year": "2024",
+    "title": "A Year With Us",
+    "category": "Milestones",
+    "location": "Home",
+    "description": "Your now one year older, and a year with us. Still the same sassy attitude, the same grumpy face, and the same lovable presence. You have grown to be a part of our family, and we are so grateful for every moment we have shared with you.",
+    "mediaType": "image",
+    "media": "/images/cat-04.jpg"
+  },
+  {
+    "id": 5,
+    "date": "February 20, 2025",
+    "year": "2025",
+    "title": "Walkies",
+    "location": "Outside",
+    "category":"Favorite Spots",
+    "description": "Every afternoon or evening, you would always force us to take you outside for a walk. You would immediately run while I follow you with your leash on. Reaching houses that are far away from our home. And when I try to get you back home, you would lay down and refuse to move.",
+    "mediaType": "video",
+    "media": "/videos/walkies.mp4"
+  },
+  {
+    "id": 6,
+    "date": "August 20, 2024",
+    "year": "2024",
+    "title": "Your Malambing Side",
+    "category": "Traits",
+    "location": "Home",
+    "description": "Despite being your natural grumpy manner you still show much affection to us. At times, you would let us carry and cuddle you with not much resistance, but would keep that grumpy face. And you would come to us when we call your name after coming home. For a sassy little princess, you still have a sweet and affectionate side that we will always love.",
+    "mediaType": "image",
+    "media": "/images/lambing.jpg"
+  },
+  {
+    "id": 7,
+    "date": "january 09, 2025",
+    "year": "2025",
+    "title": "Your Masungit Side",
+    "category": "Traits",
+    "location": "Home",
+    "description": "And for your most lovable traits, it just has to be your grumpy, sassy manner. You would always run away when we try to cuddle you, and would always show your grumpy face when we try to cuddle you. And would even growl or hiss at your fur-sisters when they try to get close to you. But despite it, that main quality of yours alone is what makes you very lovable. You will always be my sassy little princess for that.",
+    "mediaType": "image",
+    "media": "/images/sungit.jpg"
+  },
+  {
+    "id": 8,
+    "date": "June 09, 2025",
+    "year": "2025",
+    "title": "Your Playful/Goofy Side",
+    "category": "Traits",
+    "location": "Home",
+    "description": "Despite being a sassy fur-baby, you still have that feline playfulness and goofiness. You would always run around the house, play with your toys, and would always chase after the laser pointer. You will always be part of being a lively fur-baby together with your fur-sisters.",
+    "mediaType": "video",
+    "media": "/videos/goofy_vid.mp4"
+  },
+  {
+    "id": 9,
+    "date": "November 06, 2024",
+    "year": "2024",
+    "title": "Always by Our Side",
+    "category": "Milestones",
+    "location": "Home",
+    "description": "During quiet days at home, you became our constant companion. Your presence made ordinary days feel peaceful.",
+    "mediaType": "image",
+    "media": "/images/cat-05.jpg"
+  },
+  {
+    "id": 10,
+    "date": "July 23, 2025",
+    "year": "2025",
+    "title": "Growing Older",
+    "category": "Traits",
+    "location": "Bedroom",
+    "description": "As time passed, you grew older, showing signs that we were afraid to come. But your playfulness and unique personality continued to bring joy to our lives.",
+    "mediaType": "image",
+    "media": "/images/cat-06.jpg"
+  },
+  {
+    "id": 11,
+    "date": "January 19, 2026",
+    "year": "2026",
+    "title": "My Last Picture of You",
+    "category": "Milestones",
+    "location": "Our Home",
+    "description": "The last photo I took of you when you were trying your best to comfort be when I was sick. I will always remember that warmth on my chest, those soft purrs, and little breaths. I only wish to feel that one last time.",
+    "mediaType": "image",
+    "media": "/images/cat-07.jpg"
+  }
+]
